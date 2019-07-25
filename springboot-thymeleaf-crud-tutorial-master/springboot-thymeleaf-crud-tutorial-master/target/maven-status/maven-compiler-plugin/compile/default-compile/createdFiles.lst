@@ -1,0 +1,13 @@
+net\javaguides\springboot\tutorial\dto\FuelDto.class
+net\javaguides\springboot\tutorial\dto\ExpenseonRTOandTOLLDto.class
+net\javaguides\springboot\tutorial\controller\PageNavigationController.class
+net\javaguides\springboot\tutorial\Application.class
+net\javaguides\springboot\tutorial\entity\TripRegister.class
+net\javaguides\springboot\tutorial\dto\ExpenseOnTripBilledDto.class
+net\javaguides\springboot\tutorial\config\DynamoDBConfig.class
+net\javaguides\springboot\tutorial\controller\StudentController.class
+net\javaguides\springboot\tutorial\controller\TripRegistrationController.class
+net\javaguides\springboot\tutorial\dto\TripRegisterDto.class
+net\javaguides\springboot\tutorial\repo\TripRegisterRepository.class
+net\javaguides\springboot\tutorial\dto\VehicleDto.class
+net\javaguides\springboot\tutorial\dto\Constants.class
